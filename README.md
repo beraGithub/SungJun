@@ -4,4 +4,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beraGithub)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beraGithub)](https://github.com/anuraghazra/github-readme-stats)
 
-![C Language](https://img.shields.io/badge/C-#A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=#A8B9CC)
+![C](https://img.shields.io/badge/C-#A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=#A8B9CC)
