@@ -3,4 +3,4 @@
 ---
 
 #### 1. Github  
-####   = 깃허브 사용법 ( CLI - Command Line Interface )
+#####   = 깃허브 사용법 ( CLI - Command Line Interface )
